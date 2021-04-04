@@ -1,3 +1,6 @@
+# I have commented out nearly all of the code so that it would be easy to use it in fragments, because all of the fragments are indepenent
+
+
 a = []
 
 ''' QUESTION 1 '''
@@ -36,8 +39,6 @@ a = []
 # output predicted: [100, 1000, 10000, 25, 125, 625, 4, 8, 16]
 # output received: [100, 1000, 10000, 25, 125, 625, 4, 8, 16]
 # a = [x**y for x in [10,5,2] for y in [2,3,4]]
-
-
 
 
 print(a)
