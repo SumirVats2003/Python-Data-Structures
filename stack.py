@@ -50,3 +50,4 @@ while True:
         break
     else:
         print("Please enter valid input")
+        break
