@@ -27,7 +27,12 @@ def peak(lst):
         print("Empty List")
 
 def display(lst):
-    print(lst)
+    p = len(lst)
+    if p != 0:
+        for i in range(p-1,-1,-1):
+            print(lst[i])
+    else:
+        print("Empty List")
 
 while True:
     print("PUSH:1, POP:2, PEAK:3, DISPLAY:4, EXIT:5")
