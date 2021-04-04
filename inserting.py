@@ -1,3 +1,4 @@
+# inserting elements to a list in ascending order
 l1 = []
 
 def insert(number, iList):
