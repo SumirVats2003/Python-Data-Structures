@@ -1,4 +1,5 @@
 # binary search in list
+# please input list elements in ascending order, this is a bug which needs to be fixed
 
 def binSearch(l, key, size):
     i = 0
