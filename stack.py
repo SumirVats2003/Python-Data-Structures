@@ -14,7 +14,7 @@ def pop(lst):
     if p !=0:
         a = lst[p-1]
         del lst[p-1]
-        print("Popped element:",a)
+        print("Element popped successfully")
     else:
         print("There is no element in list")
 
