@@ -1,4 +1,4 @@
-# linear search in list
+# linear search in lists
 
 l1 = []
 
