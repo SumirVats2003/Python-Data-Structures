@@ -1,3 +1,6 @@
+# this program deletes an element from a list
+# it first searches for the element and then delete it
+
 l1 = []
 
 def delete(dList, number, size):
